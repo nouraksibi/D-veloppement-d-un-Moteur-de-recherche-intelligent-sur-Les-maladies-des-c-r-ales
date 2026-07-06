@@ -128,7 +128,7 @@ http://localhost:3000
 
 ---
 
-## 📊 Search Process
+## Search Process
 
 1. User enters a question.
 2. Chatbot Agent preprocesses the query.
